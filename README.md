@@ -28,4 +28,4 @@ Follow the installation guide below.
 
 ## Submitting the test
 
-Once done, please record the result, upload it to Google Drive, and send it to hello@clydesantiago.com. There's no time limit for this test, but I recommend submitting it within 3 days.
+Once done, please fill out [this form.](https://docs.google.com/forms/d/e/1FAIpQLSdqxvjhpw_aRgjOBkEQLT_EsRhjUJwI9EesmstUPR6G3npljQ/viewform?usp=sf_link)
